@@ -6,9 +6,6 @@ Features
 Usage
 
     Add a Task:
-    bash
-    Copy
-
     ./task_scheduler.sh add "*/5 * * * * /path/to/your/script.sh"
 
     List Scheduled Tasks:
