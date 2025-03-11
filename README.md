@@ -1,8 +1,3 @@
-A lightweight and efficient task scheduler written in Bash, designed to automate and manage recurring tasks directly from your terminal. This script allows you to schedule, list, and remove tasks with ease, making it perfect for automating routine operations on Unix-based systems.
-Features
-
-
-
 Usage
 
     Add a Task:
